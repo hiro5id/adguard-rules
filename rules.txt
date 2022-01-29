@@ -1,0 +1,2 @@
+# for work macbook 
+172.5.1.129 work_macbook_pro_wireless.noobtech.com
